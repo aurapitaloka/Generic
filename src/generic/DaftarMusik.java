@@ -10,7 +10,7 @@ import javax.swing.table.AbstractTableModel;
 
 /**
  *
- * @author avrians
+ * @author Aura Pitaloka
  */
 public class DaftarMusik extends AbstractTableModel {
 
